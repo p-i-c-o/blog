@@ -2,6 +2,7 @@
 title: The RTL SDR
 tags: ['radio']
 author: me
+category: radio
 image: https://github.com/p-i-c-o/p-i-c-o.github.io/blob/main/img/rtlsdr.png?raw=true
 ---
 I recently bought the RTL-SDR, and I have been loving it! It lets anyone listen to any radio frequency around them.
