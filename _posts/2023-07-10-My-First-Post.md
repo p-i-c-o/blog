@@ -5,5 +5,7 @@ tags: miscellaneous
 author: me
 ---
 
+![](cover1.jpg)
+
 This website will contain all of my findings, research and write-ups.
 I hope this website is usefull to all that find it
