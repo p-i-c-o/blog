@@ -4,7 +4,7 @@ date: 2023-07-10 +/-0100
 tags: miscellaneous
 author: me
 image:
-  path: cover.png
+  path: _posts/cover.png
   alt: cover
 ---
 
