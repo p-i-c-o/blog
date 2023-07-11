@@ -2,6 +2,7 @@
 title: Telegram for hackers
 tags: ['telegram', 'python']
 author: me
+image: https://github.com/p-i-c-o/p-i-c-o.github.io/blob/main/telegram.png?raw=true
 ---
 
 Telegrams' api has been used for many things, for example: Chat Bots, News 
