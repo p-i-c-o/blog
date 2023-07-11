@@ -13,9 +13,11 @@ date = get_current_date()
 title = input('Article title >>> ')
 tags =  input('Article tags  >>> ').split(' ')
 
-template = f"""title: {title}
+template = f"""---
+title: {title}
 tags: {tags}
 author: me
+---
 """
 
 create(date+"-"+title.replace(' ', '-')+".md", template)
