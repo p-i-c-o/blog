@@ -14,7 +14,6 @@ title = input('Article title >>> ')
 tags =  input('Article tags  >>> ').split(' ')
 
 template = f"""title: {title}
-date: {date} +/-TTTT
 tags: {tags}
 author: me
 """
