@@ -3,6 +3,8 @@
 icon: fas fa-info-circle
 order: 4
 ---
+I am p-i-c-o. I am a Swiss developer, I create content for the masses.
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+Contact me:
+
+Discord: AN7#8915
