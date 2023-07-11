@@ -1,18 +1,12 @@
 #  The contact options.
 
 - type: github
-  icon: "fab fa-github"
-
-- type: twitter
-  icon: "fab fa-twitter"
+  icon: "github.com/p-i-c-o"
 
 - type: email
-  icon: "fas fa-envelope"
+  icon: "132alt132@gmail.com"
   noblank: true # open link in current tab
 
-- type: rss
-  icon: "fas fa-rss"
-  noblank: true
 # Uncomment and complete the url below to enable more contact options
 #
 # - type: mastodon
