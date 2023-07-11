@@ -1,6 +1,5 @@
 title: My First Post
-date: 2023-07-10 +/-TTTT
-tags: ['']
+date: 2023-07-10 +/-0100
 author: me
 
 # My First Post
