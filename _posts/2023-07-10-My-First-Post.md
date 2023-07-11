@@ -1,5 +1,7 @@
 ---
 title: My First Post
+date: 2023-07-10 +/-0100
+tags: miscellaneous
 author: me
 ---
 
