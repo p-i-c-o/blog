@@ -1,11 +1,8 @@
 #  The contact options.
 
 - type: github
-  icon: "github.com/p-i-c-o"
+  icon: "github"
 
-- type: email
-  icon: "132alt132@gmail.com"
-  noblank: true # open link in current tab
 
 # Uncomment and complete the url below to enable more contact options
 #
