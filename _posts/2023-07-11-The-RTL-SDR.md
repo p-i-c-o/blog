@@ -24,4 +24,4 @@ I daily-drive macOS, so I recommended [CubicSDR](https://cubicsdr.com/). It work
 Whereas for Windows, I hear [SDRsharp](https://airspy.com/download/) is great. Most people run Windows on a daily basis, so this seems to be the best one.
 
 ## What can you do with it?
-You can listen to any radio frequency you can imagine. Use websites like [SkyVector](skyvector.com) and [Radio Reference](radioreference.com) to find frequencies of police stations, airports, EMS, and local radio stations to listen in on.
+You can listen to any radio frequency you can imagine. Use websites like [SkyVector](https://www.skyvector.com) and [Radio Reference](https://www.radioreference.com) to find frequencies of police stations, airports, EMS, and local radio stations to listen in on.
