@@ -19,4 +19,4 @@ tags: {tags}
 author: me
 """
 
-create(date+"-"+title.replace(' ', '-'), template)
+create(date+"-"+title.replace(' ', '-')+".md", template)
