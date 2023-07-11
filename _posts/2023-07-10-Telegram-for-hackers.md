@@ -11,12 +11,12 @@ and a small computer, a hacker can create a bot that can run malicious
 code.
 Let's create one together.
 
-### Installation
+## Installation
 Because there are some issues with the current pip distribution of the
 python-telegram-bot, we need to install version 13.13 specifically:
 `pip3 install python-telegram-bot==13.13`
 
-### Usage
+## Usage
 We need a bot to use, start a new chat on telegram with the BotFather, and
 create a new bot and get its bot token. Make sure no one gets it as it
 would give them access to your bot. Save your chat id and your bot token
@@ -75,7 +75,7 @@ if message.text == <desired_input>:
 ```
 This script will only send the user something back nothing else.
 
-### Command Runner
+## Command Runner
 To create something more dangerous, we can create a command runner, this
 would let us remotely run a command on the computer hosting this script.
 ```python
