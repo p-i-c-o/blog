@@ -3,9 +3,7 @@ title: My First Post
 date: 2023-07-10 +/-0100
 tags: miscellaneous
 author: me
-image:
-  path: _posts/cover.png
-  alt: cover
+image: _posts/cover.png
 ---
 
 This website will contain all of my findings, research and write-ups.
