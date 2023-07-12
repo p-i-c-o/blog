@@ -7,4 +7,4 @@ image: https://github.com/p-i-c-o/p-i-c-o.github.io/blob/main/img/cover.png?raw=
 ---
 
 This website will contain all of my findings, research and write-ups.
-I hope this website is usefull to all that find it
+I hope this website is usefull to all that find it.
