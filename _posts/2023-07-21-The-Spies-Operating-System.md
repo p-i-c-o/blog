@@ -2,8 +2,7 @@
 title: The Spies Operating System
 tags: ['os', 'privacy']
 author: me
-image: 
-https://github.com/p-i-c-o/p-i-c-o.github.io/blob/main/img/tails.png?raw=true
+image: https://github.com/p-i-c-o/p-i-c-o.github.io/blob/main/img/tails.png?raw=true
 ---
 Tails is the spies OS, it simply leaves no traces!
 
