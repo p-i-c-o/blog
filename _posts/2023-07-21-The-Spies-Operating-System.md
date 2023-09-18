@@ -1,6 +1,6 @@
 ---
 title: The Spies Operating System
-tags: ['os', 'privacy']
+tags: ['os', 'privacy', 'linux']
 author: me
 image: https://github.com/p-i-c-o/p-i-c-o.github.io/blob/main/img/tails.png?raw=true
 ---
