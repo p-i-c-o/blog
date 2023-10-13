@@ -1,7 +1,7 @@
 ---
 title: How to Pirate Bay
 date: 2023-10-13 +/-0100
-tags: pirate
+tags: piracy
 author: me
 image: https://github.com/p-i-c-o/p-i-c-o.github.io/blob/main/img/piratebay.png?raw=true
 ---
